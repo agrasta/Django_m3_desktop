@@ -1,4 +1,3 @@
-# myapp/app_meta.py
 from objectpack import desktop
 from django.conf.urls import url
 from .controller import controller
