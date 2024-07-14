@@ -1,4 +1,3 @@
- # myapp/actions.py
 from objectpack.actions import ObjectPack
 from objectpack.ui import ModelEditWindow, BaseEditWindow
 from django.contrib.auth.models import ContentType, User, Group, Permission
